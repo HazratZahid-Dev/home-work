@@ -1,0 +1,25 @@
+.between{
+   
+    border-radius: 10px;
+    margin-left: 23rem;
+ 
+    
+}
+.input{
+
+   
+    
+    border-bottom: 2px solid rgb(255, 255, 255)  ;
+    border-left: 2px solid rgb(255, 255, 255)  ;
+    border-radius: 3px;
+}
+.list{
+    margin-left: 14rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.li-item:hover{
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+    font-size: 18px;
+}

@@ -1,0 +1,73 @@
+
+.bg-image{
+    background-image: url(../compunents/11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-origin: content-box;
+    height: 30rem;
+    margin-left: -2rem;
+    /* opacity: 0.6;  */
+    filter: grayscale(3 5%);
+   
+    
+}
+.first{
+    text-align: center;
+    letter-spacing: 2px;
+    color: rgb(255, 255, 255);
+    /* font-family: 'Tangerine', serif; */
+    font-weight: bold;
+    font-size: 4rem;
+    opacity: 1;
+    /* text-shadow: 4px 4px 4px rgb(169, 166, 166); */
+    
+}
+.main{
+    margin-top: 7rem;
+}
+.second{
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 3rem;
+    color: rgb(52, 167, 54);
+    font-family: 'Tangerine', serif;
+    font-weight: bolder;
+    /* text-shadow: 4px 4px 4px #aaa; */
+}
+.color{
+    color: rgb(61, 174, 70);
+}
+.second-tag{
+    color: rgb(9, 5, 123);
+    font-weight: bold;
+    font-size: 3rem;
+}
+.main-btn{
+    background-color: rgb(47, 145, 49);;
+
+}
+.underline1{
+    width: 22.5rem;
+    margin-left: 30rem;
+    height: 2px;
+    background-color: black;
+
+}
+.our-product{
+    text-align: center;
+    letter-spacing: 2px;
+    margin-top: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition-property: transform;
+    color: rgb(2, 78, 2);
+    transition-duration: 1.5s;
+}
+.our-product:hover{
+    transform: scale(1.2);
+    font-weight: bold;
+    font-size: 2rem;
+}
+.overflow{
+    overflow: hidden;
+}
